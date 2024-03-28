@@ -3,6 +3,7 @@
   "parserOptions": {
     "sourceType": "module"
   },
+  "eslint linebreak-style": ["error", "windows"],
   "env": {
     "jest": true,
     "browser": true
